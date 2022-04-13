@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nombre</string>
+    <string name="type_name">Introduce un nombre reconocible</string>
+    <string name="cost">Coste</string>
+    <string name="type_cost">Introduce el coste de este gasto</string>
+    <string name="state">Estado</string>
+    <string name="category">Categoría</string>
+    <string name="real">Real</string>
+    <string name="simulate">Simulado</string>
+    <string name="repeat">Repetir</string>
+    <string name="save_and_close">Guardar y salir</string>
+    <string name="save_and_add_more">Guardar y añadir más</string>
+    <string name="option_3">Factura</string>
+    <string name="option_2">Ocio</string>
+    <string name="option_1">Básico</string>
+    <string name="interval">Intervalo</string>
+    <string name="limit">Límite</string>
+    <string name="your_limit">Tu límite</string>
+    <string name="accessibility">Accesibilidad</string>
+    <string name="buttons_left">Botones a la izquierda</string>
+    <string name="preferences">Ajustes</string>
+    <string name="login">Inicio de sesión</string>
+    <string name="auth_failed">Error de autentificación</string>
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="no_empty_field">Ningún campo puede estar vacío.</string>
+    <string name="log_out">Cerrar sesión</string>
+    <string name="data_deleted">Datos borrados</string>
+    <string name="undo">Deshacer</string>
+</resources>

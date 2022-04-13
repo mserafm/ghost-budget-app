@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_manage_expenses.xml",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/layout/fragment_manage_expenses.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_row.xml",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/layout/item_row.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/layout/activity_login.xml"
+    }
+]

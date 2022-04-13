@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable-v24_ghostbudget_logo.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable-v24/ghostbudget_logo.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_real_chart.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/real_chart.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_sello_feliz.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/sello_feliz.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_chart_options.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/chart_options.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/layout_item_row.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/layout/item_row.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/menu_main_menu.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_sello_corazon.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/sello_corazon.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_add_button_ic.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/add_button_ic.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_simulate_chart.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/simulate_chart.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_sello_casa.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/sello_casa.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/layout_activity_home.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_simulate_real_charts.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/simulate_real_charts.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/xml_preferences.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable-night_sello_corazon.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable-night/sello_corazon.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_pie_chart.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/pie_chart.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable-night_sello_feliz.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable-night/sello_feliz.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable-night_sello_casa.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable-night/sello_casa.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/layout_fragment_manage_expenses.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/layout/fragment_manage_expenses.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_bar_chart.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/bar_chart.xml"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/maria/GitProject/ghost-budget/ghost_budget/app/build/intermediates/merged_res/debug/drawable_line_chart.xml.flat",
+        "source": "/home/maria/GitProject/ghost-budget/ghost_budget/app/src/main/res/drawable/line_chart.xml"
+    }
+]

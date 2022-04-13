@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736437082243",
+    "project_id": "ghost-budget",
+    "storage_bucket": "ghost-budget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736437082243:android:4a1bed7ae7654c219d63b6",
+        "android_client_info": {
+          "package_name": "com.mserafm.ghost_budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736437082243-rk57j8e5k30k2tlq2aqm1skugri4gq9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA69b1QyO4StwXeSgj4JBG6H_GYUep66vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736437082243-rk57j8e5k30k2tlq2aqm1skugri4gq9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

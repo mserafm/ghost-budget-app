@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="pref_limit"
+        android:title="@string/limit">
+
+        <EditTextPreference
+            android:defaultValue="0"
+            android:inputType="numberDecimal"
+            android:key="et_pref_limit"
+            android:singleLine="true"
+            android:title="@string/your_limit" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="pref_accesibility"
+        android:title="@string/accessibility">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="switch_pref_hand"
+            android:title="@string/buttons_left" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

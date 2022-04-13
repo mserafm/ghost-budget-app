@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mserafm.ghost_budget.view.HomeActivity"
+    android:id="@+id/coordinator_layout"
+    android:background="@color/white">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/charts_layout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50">
+
+            <com.github.mikephil.charting.charts.LineChart
+                android:id="@+id/line_chart"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:background="@color/white"
+                android:visibility="gone"/>
+
+
+            <com.github.mikephil.charting.charts.PieChart
+                android:id="@+id/pie_chart"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"/>
+
+            <com.github.mikephil.charting.charts.BarChart
+                android:id="@+id/bar_chart"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:visibility="gone"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/btn_line_chart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/line_chart"
+                app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+                android:background="#D0E0EA"
+                android:layout_below="@+id/btn_chart_options"
+                android:layout_alignParentEnd="true"
+                android:layout_marginVertical="20dp"
+                android:layout_marginHorizontal="5dp"
+                android:visibility="gone"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/btn_pie_chart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/pie_chart"
+                app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+                android:background="#D0E0EA"
+                android:layout_below="@+id/btn_line_chart"
+                android:layout_alignParentEnd="true"
+                android:layout_marginHorizontal="5dp"
+                android:visibility="gone"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/btn_bar_chart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bar_chart"
+                app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+                android:background="#D0E0EA"
+                android:layout_below="@+id/btn_pie_chart"
+                android:layout_alignParentEnd="true"
+                android:layout_marginVertical="20dp"
+                android:layout_marginHorizontal="5dp"
+                android:visibility="gone"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/btn_simulated_real"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/simulate_real_charts"
+                app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+                android:background="#D0E0EA"
+                android:layout_alignParentTop="true"
+                android:layout_toStartOf="@+id/btn_chart_options"
+                android:layout_marginTop="5dp"
+                android:layout_marginHorizontal="20dp"
+                android:visibility="gone"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/btn_real"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/real_chart"
+                app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+                android:background="#D0E0EA"
+                android:layout_alignParentTop="true"
+                android:layout_toStartOf="@+id/btn_simulated_real"
+                android:layout_marginTop="5dp"
+                android:visibility="gone"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/btn_simulated"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/simulate_chart"
+                app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+                android:background="#D0E0EA"
+                android:layout_alignParentTop="true"
+                android:layout_toStartOf="@+id/btn_real"
+                android:layout_marginTop="5dp"
+                android:layout_marginHorizontal="20dp"
+                android:visibility="gone"/>
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/btn_chart_options"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/chart_options"
+                app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.CornerSize50Percent"
+                android:background="#D0E0EA"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="5dp"
+                android:layout_marginHorizontal="5dp"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:listitem="@layout/item_row" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fbtn_add_expense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/treinta"
+        app:elevation="@dimen/seis"
+        app:borderWidth="@dimen/cero"
+        android:backgroundTint="@color/blue"
+        android:src="@drawable/add_button_ic"
+        app:tint="@color/white"
+        />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
